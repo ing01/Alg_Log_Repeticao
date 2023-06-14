@@ -1,9 +1,6 @@
-##Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito. Foram obtidos os seguintes dados:
-##nome da cidade; número de veículos de passeio; número de acidentes de trânsito com vítimas.
-
-##Deseja-se saber:
-##o maior índice de acidentes de trânsito e a que cidades pertence; o menor índice de acidentes de trânsito e a que cidades pertence; 
-##qual é a média de veículos nas cinco cidades juntas; qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
+# Algoritmo que recebe nomes de cincocidades, número de veículos e acidentes para determinar:
+# o maior índice de acidentes de trânsito e a que cidades pertence; o menor índice de acidentes de trânsito e a que cidades pertence; 
+# qual é a média de veículos nas cinco cidades juntas; qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
 
 total_cidades = 5
 somatoria_veiculos_cidades = 0

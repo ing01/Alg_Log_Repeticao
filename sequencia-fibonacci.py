@@ -1,4 +1,4 @@
-##Faça um programa que monte os oito primeiros termos da sequência de Fibonacci.
+# Algoritmo que monta os oito primeiros termos da sequência de Fibonacci.
 
 numero_de_elementos_da_sequencia = 8
 elementoN = 0

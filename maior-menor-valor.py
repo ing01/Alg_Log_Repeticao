@@ -1,4 +1,4 @@
-##Construir um algoritmo que, dado o valor de 20 preços de TV, determine e apresente o valor mais caro e mais barato entre eles.
+# Algoritmo que recebe o valor de 20 preços de TV, determina e apresenta o valor mais caro e mais barato.
 
 cont = 1
 while cont <= 10:

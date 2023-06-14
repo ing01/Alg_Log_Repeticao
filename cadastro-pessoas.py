@@ -1,6 +1,6 @@
-##No final do ano muitas pessoas compram presentes. Faça um programa que registre as pessoas, usando como critério de parada a letra ‘n’, para a pergunta 
-##“Deseja cadastrar outro (‘s’/’n’)?”, para identificar o perfil dos compradores numa loja de roupas e apresente como resultado a:
-##Quantidade de mulheres e de homens; Quantidade de mulheres e de homens abaixo e acima de 18 anos; Quantidade de mulheres e de homens acima de 60 anos.
+# Algoritmo que registra as pessoas, usando como critério de parada a letra 'n'.
+# Para identificar o perfil dos compradores numa loja de roupas e apresente como resultado a:
+# quantidade de mulheres e de homens; quantidade de mulheres e de homens abaixo e acima de 18 anos; quantidade de mulheres e de homens acima de 60 anos.
 
 mulheres = 0
 homens = 0

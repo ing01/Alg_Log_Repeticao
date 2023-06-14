@@ -1,4 +1,4 @@
-##Elabore um algoritmo que calcule e informe a média de idades de 5 alunos.
+# Algoritmo que calcule e informe a média de idades de 5 alunos.
 
 idade = 1
 soma_numeros = 0

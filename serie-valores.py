@@ -1,4 +1,5 @@
-##Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série a seguir: Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
+# Algoritmo que recebe o número de termos, determine e mostre os valores de acordo com a série a seguir: 
+# Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 
 numero_de_termos = int (input('Determine um numero de contagem para os termos '))
 termo1 = 2

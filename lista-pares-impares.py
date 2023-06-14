@@ -1,4 +1,4 @@
-## Escreva um algoritmo que receba 23 números, calcule e exiba a quantidade de números pares e impares.
+# Algoritmo que recebe 23 números, calcule e exiba a quantidade de números pares e impares.
 
 qpar = 0
 qimpar = 0

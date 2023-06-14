@@ -1,4 +1,4 @@
-##Faça um algoritmo que leia de dez alunos altura e nome. Mostre o aluno mais alto e mais baixo e seus respectivos nomes.
+# Algoritmo que receba altura e nome de dez alunos. Mostra o aluno mais alto e mais baixo e seus respectivos nomes.
 
 cont = 1
 while cont <= 5:

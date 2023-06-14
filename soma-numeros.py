@@ -1,4 +1,4 @@
-##Faça um algoritmo que conheça 4 valores diferentes, some-os e mostre o resultado.
+# Algoritmo que conheça 4 valores diferentes, some-os e mostre o resultado.
 
 cont = 1
 soma_numeros = 0

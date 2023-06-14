@@ -1,4 +1,4 @@
-##Construir um algoritmo para calcular a média aritmética de preços de 5 produtos.
+# Algoritmo que calcula a média aritmética de preços de 5 produtos.
 
 soma_numeros = 0
 for produto in range(1, 6):

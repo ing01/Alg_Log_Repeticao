@@ -1,5 +1,5 @@
-##Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados:
-##valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela.
+# Algoritmo que recebe o valor de uma dívida e mostre uma tabela com os seguintes dados:
+# valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela.
 
 for valor in range (1):
   divida = float (input('Digite o valor da dívida: '))

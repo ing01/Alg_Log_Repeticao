@@ -1,4 +1,4 @@
-##Faça um programa para calcular a tabuada do 2 até a do 9. USE DUAS ESTRUTURAS DE REPETIÇÃO
+# Algoritmo que calcula a tabuada do 2 até a do 9.
 
 tabuada = 1
 while tabuada < 10:
